@@ -1,0 +1,540 @@
+{
+  "product": [
+    {
+      "name": "Bạc Xỉu Đá",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__BAC_XIU.jpg",
+      "description": "Bạc Xỉu Đá là một sự lựa chọn nhẹ đô cà phê nhưng vẫn thơm ngon, chất lừ không kém!",
+      "price": 29000,
+      "quality": 55,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 29000
+        },
+        {
+          "type": "Vừa",
+          "price": 33000
+        },
+        {
+          "type": "To",
+          "price": 43000
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "name": "Caramel Macchiato",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
+      "description": "Ly cà phê Caramel Macchiato bắt đầu từ dòng sữa tươi và lớp bọt sữa béo ngậy, sau đó hòa quyện cùng cà phê espresso đậm đà và sốt caramel ngọt ngào",
+      "price": 69000,
+      "quality": 46,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 69000
+        },
+        {
+          "type": "Vừa",
+          "price": 73000
+        },
+        {
+          "type": "To",
+          "price": 83000
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "name": "Latte",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__LATTE_1.jpg",
+      "description": "Latte của chúng tôi bắt đầu với cà phê espresso, sau đó thêm sữa tươi và bọt sữa một cách đầy nghệ thuật",
+      "price": 65000,
+      "quality": 48,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 65000
+        },
+        {
+          "type": "Vừa",
+          "price": 69000
+        },
+        {
+          "type": "To",
+          "price": 79000
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "name": "Espresso",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__EXPRESSO.jpg",
+      "description": "Được chiết xuất một cách hoàn hảo từ loại cà phê rang được phối trộn độc đáo từ những hạt cà phê Robusta và Arabica chất lượng hảo hạng.",
+      "price": 45000,
+      "quality": 49,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "4"
+    },
+    {
+      "name": "Americano",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__AMERICANO_NONG.jpg",
+      "description": "Americano tại Highlands Coffee là sự kết hợp giữa cà phê espresso thêm vào nước đun sôi",
+      "price": 45000,
+      "quality": 28,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "5"
+    },
+    {
+      "name": "PhinDi Cassia",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2024/Phindi_Cassia/Phindi_Cassia_Highlands_products_Image1.jpg",
+      "description": "Với chất phin êm ái, hương vị cà phê Việt Nam hiện đại kết hợp cùng hương quế nhẹ nhàng và thạch cà phê hấp dẫn.",
+      "price": 55000,
+      "quality": 9,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 55000
+        },
+        {
+          "type": "Vừa",
+          "price": 59000
+        },
+        {
+          "type": "To",
+          "price": 69000
+        }
+      ],
+      "id": "6"
+    },
+    {
+      "name": "Cappuccino",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CAPPUCINO.jpg",
+      "description": "Ly cà phê sữa đậm đà thời thượng! Một chút đậm đà hơn so với Latte, Cappuccino của chúng tôi bắt đầu với cà phê espresso, sau đó thêm một lượng tương đương giữa sữa tươi và bọt sữa cho thật hấp dẫn. Bạn có thể tùy thích lựa chọn uống nóng hoặc dùng chung với đá.",
+      "price": 65000,
+      "quality": 93,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 65000
+        },
+        {
+          "type": "Vừa",
+          "price": 69000
+        },
+        {
+          "type": "To",
+          "price": 79000
+        }
+      ],
+      "id": "7"
+    },
+    {
+      "name": "Mocha Macchiato",
+      "type": "coffe",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__MOCHA.jpg",
+      "description": "Một thức uống yêu thích được kết hợp bởi giữa sốt sô cô la ngọt ngào, sữa tươi và đặc biệt là cà phê espresso đậm đà mang thương hiệu Highlands Coffee. Bạn có thể tùy thích lựa chọn uống nóng hoặc dùng chung với đá.",
+      "price": 69000,
+      "quality": 99,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 69000
+        },
+        {
+          "type": "Vừa",
+          "price": 74000
+        },
+        {
+          "type": "To",
+          "price": 84000
+        }
+      ],
+      "id": "8"
+    },
+    {
+      "name": "Trà Thạch Vải",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_TACH_VAI.jpg",
+      "description": "Một sự kết hợp thú vị giữa trà đen, những quả vải thơm ngon và thạch giòn khó cưỡng, mang đến thức uống tuyệt hảo!",
+      "price": 45000,
+      "quality": 39,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "9"
+    },
+    {
+      "name": "Trà Sen Vàng (Củ Năng)",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_SEN_VANG_CU_NANG.jpg",
+      "description": "Thức uống chinh phục những thực khách khó tính! Sự kết hợp độc đáo giữa trà Ô long, hạt sen thơm bùi và củ năng giòn tan. Thêm vào chút sữa sẽ để vị thêm ngọt ngào.",
+      "price": 45000,
+      "quality": 89,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "10"
+    },
+    {
+      "name": "Trà Thạch Đào",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_THANH_DAO-08.jpg",
+      "description": "Một trải nghiệm thú vị khác! Sự hài hòa giữa vị trà cao cấp, vị sả thanh mát và những miếng đào thơm ngon mọng nước sẽ mang đến cho bạn một thức uống tuyệt vời.",
+      "price": 45000,
+      "quality": 66,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Trà Thạch Vải",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_TACH_VAI.jpg",
+      "description": "Một sự kết hợp thú vị giữa trà đen, những quả vải thơm ngon và thạch giòn khó cưỡng, mang đến thức uống tuyệt hảo!",
+      "price": 45000,
+      "quality": 67,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Freeze Trà Xanh",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__FREEZE_TRA_XANH.jpg",
+      "description": "Bạc Xỉu Đá là một sự lựa chọn nhẹ đô cà phê nhưng vẫn thơm ngon, chất lừ không kém!",
+      "price": 55000,
+      "quality": 17,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 55000
+        },
+        {
+          "type": "Vừa",
+          "price": 59000
+        },
+        {
+          "type": "To",
+          "price": 69000
+        }
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Cookies & Cream",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__COOKIES_FREEZE.jpg",
+      "description": "Một thức uống ngon lạ miệng bởi sự kết hợp hoàn hảo giữa cookies sô cô la giòn xốp cùng hỗn hợp sữa tươi cùng sữa đặc đem say với đá viên, và cuối cùng không thể thiếu được chính là lớp kem whip mềm mịn cùng cookies sô cô la say nhuyễn.",
+      "price": 55000,
+      "quality": 6,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 55000
+        },
+        {
+          "type": "Vừa",
+          "price": 59000
+        },
+        {
+          "type": "To",
+          "price": 69000
+        }
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Freeze Sô-cô-la",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__FREEZE_CHOCO.jpg",
+      "description": "Thiên đường đá xay sô cô la! Từ những thanh sô cô la Việt Nam chất lượng được đem xay với đá cho đến khi mềm mịn, sau đó thêm vào thạch sô cô la dai giòn, ở trên được phủ một lớp kem whip beo béo và sốt sô cô la ngọt ngào. Tạo thành Freeze Sô-cô-la ngon mê mẩn chinh phục bất kì ai!",
+      "price": 60000,
+      "quality": 70,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 60000
+        },
+        {
+          "type": "Vừa",
+          "price": 64000
+        },
+        {
+          "type": "To",
+          "price": 74000
+        }
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Trà Xanh Đậu Đỏ",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_XANH_DAU_DO.jpg",
+      "description": "Tuyệt hảo hương vị bùng nổ vị giác !",
+      "price": 45000,
+      "quality": 95,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Chanh Đá Viên",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/HLCPOSTOFFICE_DRAFT/PNG_FINAL/3_MENU_NGUYEN_BAN/Chanh_Da_Vien.jpg",
+      "description": "Tuyệt hảo hương vị bùng nổ vị giác tươi mát ngày hè!",
+      "price": 45000,
+      "quality": 45000,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Trà Thanh Đào",
+      "type": "Tea",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/HLCPOSTOFFICE_DRAFT/PNG_FINAL/3_MENU_NGUYEN_BAN/Tra_Thanh_Dao.jpg",
+      "description": "Tuyệt hảo !",
+      "price": 45000,
+      "quality": 45000,
+      "size": [
+        {
+          "type": "Nhỏ",
+          "price": 45000
+        },
+        {
+          "type": "Vừa",
+          "price": 49000
+        },
+        {
+          "type": "To",
+          "price": 59000
+        }
+      ],
+      "id": "18"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "a",
+      "password": "a"
+    },
+    {
+      "id": 2,
+      "username": "a",
+      "password": "a"
+    },
+    {
+      "id": 3,
+      "username": "a",
+      "password": "a"
+    },
+    {
+      "id": 4,
+      "username": "a",
+      "password": "a"
+    },
+    {
+      "id": 5,
+      "username": "b",
+      "password": "b"
+    }
+  ],
+  "orderHistory": [
+    {
+      "id": "d46e",
+      "name": "a",
+      "details": [
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
+          "quantity": 11,
+          "name": "Caramel Macchiato",
+          "selectedSize": "Nhỏ",
+          "selectedPrice": "69000"
+        },
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_SEN_VANG_CU_NANG.jpg",
+          "quantity": 18,
+          "name": "Trà Sen Vàng (Củ Năng)",
+          "selectedSize": "Nhỏ",
+          "selectedPrice": "45000"
+        },
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__LATTE_1.jpg",
+          "quantity": 48,
+          "name": "Latte",
+          "selectedSize": "Nhỏ",
+          "selectedPrice": "65000"
+        }
+      ],
+      "paymentMethod": "tiền mặt",
+      "address": "Hồ Chí Minh",
+      "totalPrice": 4714000,
+      "dateOrder": "2024-11-19T17:39:59.787Z"
+    },
+    {
+      "id": "d092",
+      "name": "a",
+      "details": [
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
+          "quantity": 5,
+          "name": "Caramel Macchiato",
+          "selectedSize": "Nhỏ",
+          "selectedPrice": "69000"
+        },
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
+          "quantity": 3,
+          "name": "Caramel Macchiato",
+          "selectedSize": "Vừa",
+          "selectedPrice": "73000"
+        }
+      ],
+      "paymentMethod": "tiền mặt",
+      "address": "Hồ Chí Minh",
+      "totalPrice": 589000,
+      "dateOrder": "2024-11-19T17:44:58.348Z"
+    },
+    {
+      "id": "3997",
+      "name": "a",
+      "details": [
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__BAC_XIU.jpg",
+          "quantity": 4,
+          "name": "Bạc Xỉu Đá",
+          "selectedSize": "Nhỏ",
+          "selectedPrice": "29000"
+        },
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__BAC_XIU.jpg",
+          "quantity": 1,
+          "name": "Bạc Xỉu Đá",
+          "selectedSize": "Vừa",
+          "selectedPrice": "33000"
+        },
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__BAC_XIU.jpg",
+          "quantity": 1,
+          "name": "Bạc Xỉu Đá",
+          "selectedSize": "To",
+          "selectedPrice": "43000"
+        },
+        {
+          "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__FREEZE_CHOCO.jpg",
+          "quantity": 1,
+          "name": "Freeze Sô-cô-la",
+          "selectedSize": "Nhỏ",
+          "selectedPrice": "60000"
+        }
+      ],
+      "paymentMethod": "tiền mặt",
+      "address": "Hồ chí minh",
+      "totalPrice": 277000,
+      "dateOrder": "2024-11-20T01:50:05.374Z"
+    }
+  ]
+}

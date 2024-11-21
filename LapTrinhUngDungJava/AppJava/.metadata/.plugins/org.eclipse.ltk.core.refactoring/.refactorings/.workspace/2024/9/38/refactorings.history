@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Buoi2UIWithJavaFX&apos;" deleteContents="true" description="Delete resource &apos;Buoi2UIWithJavaFX&apos;" element1="/Buoi2UIWithJavaFX" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1726882178524"/>&#x0A;<refactoring comment="Delete resource &apos;Buoi2UIWithJavaFx&apos;" deleteContents="false" description="Delete resource &apos;Buoi2UIWithJavaFx&apos;" element1="/Buoi2UIWithJavaFx" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1726882330647"/>
+</session>

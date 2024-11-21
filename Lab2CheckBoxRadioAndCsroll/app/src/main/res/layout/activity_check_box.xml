@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loại biến nào có thể dùng cho tên một thành phố?"
+        android:textSize="16sp"
+        android:paddingBottom="10dp"/>
+
+    <CheckBox
+        android:id="@+id/cb_int"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="int" />
+
+    <CheckBox
+        android:id="@+id/cb_double"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="double" />
+
+    <CheckBox
+        android:id="@+id/cb_string"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="String" />
+
+    <CheckBox
+        android:id="@+id/cb_all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tất cả các phương án" />
+
+    <Button
+        android:id="@+id/btn_ket_qua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KẾT QUẢ"
+        android:background="@color/Bnt_KetQua"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:id="@+id/btn_goi_y"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GỢI Ý"
+        android:background="@color/Btn_GoiY"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:enabled="false"/>
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="10dp"
+        android:visibility="gone"/>
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\BaiHoc\HK6\UI_admin"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\Demo"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\sql_baitap3"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\UI_admin\UI_admin"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\UI_admin"/>
+			<item value="C:\Users\Tien Hien\Downloads\nhanvien"/>
+			<item value="C:\Users\Tien Hien\Downloads\UI_NhanVien\UI_NhanVien"/>
+			<item value="C:\Users\Tien Hien\Downloads\UI_NhanVien"/>
+			<item value="C:\Users\Tien Hien\Downloads\UI_admin\UI_admin"/>
+			<item value="C:\Users\Tien Hien\Downloads\UI_admin"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\nhanvien"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\sql_baitap2"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\sql_baitap1"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\DemoCSDL"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\javafx_baitap6"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\javafx_baitap5"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\javafx_baitap4"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\javafx_baitap3"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\javafx_baitap2"/>
+			<item value="D:\BaiHoc\HK6\LapTrinhUngDungJava\javafx_baitap1"/>
+		</list>
+	</section>
+</section>

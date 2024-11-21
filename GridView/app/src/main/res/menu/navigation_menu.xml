@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_account_box_white_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="InFo" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="Email" />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/ic_vpn_key_white_24dp"
+        android:title="About" />
+</menu>

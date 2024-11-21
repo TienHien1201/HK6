@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <center>
+      <VBox prefHeight="310.0" prefWidth="446.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextField id="nameField" fx:id="nameField" promptText="Product Name" />
+            <TextField id="priceField" fx:id="priceField" promptText="Product Price" />
+            <TextField id="quantityField" fx:id="quantityField" promptText="Product Quantity" />
+            <Button id="bntAdd" fx:id="bntAdd" contentDisplay="CENTER" mnemonicParsing="false" onAction="#addProduct" text="Add Product" />
+            <TableView id="productTable" fx:id="productTable" prefHeight="200.0" prefWidth="200.0">
+              <columns>
+                <TableColumn id="nameColumn" fx:id="nameColumn" prefWidth="219.99999696016312" text="Name" />
+                <TableColumn id="priceColumn" fx:id="priceColumn" minWidth="0.0" prefWidth="97.60005187988281" text="Price" />
+                  <TableColumn id="quantityColumn" fx:id="quantityColumn" prefWidth="108.79998779296875" text="Quantity" />
+              </columns>
+            </TableView>
+         </children></VBox>
+   </center>
+</BorderPane>

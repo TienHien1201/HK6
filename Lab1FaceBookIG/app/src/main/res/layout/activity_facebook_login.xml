@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainFb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3b5998"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Logo Facebook -->
+    <ImageView
+        android:id="@+id/facebook_logo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        app:srcCompat="@drawable/facebook_logo"
+        tools:srcCompat="@drawable/facebook_logo" />
+
+    <!-- TextView English • Change -->
+
+    <!-- Ô nhập email hoặc số điện thoại -->
+
+    <TextView
+        android:id="@+id/language_change"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="English • Change"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/email_or_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Email or Phone"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="#dcdcdc" />
+
+    <!-- Ô nhập mật khẩu -->
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@android:drawable/editbox_background"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="#dcdcdc" />
+
+    <!-- Nút Đăng nhập -->
+
+    <!-- Đăng ký tài khoản -->
+
+    <Button
+        android:id="@+id/btn_login"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/btn_loginFb"
+        android:text="LOG IN"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/sign_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="Sign Up for Facebook"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <!-- Quên mật khẩu -->
+    <TextView
+        android:id="@+id/forgot_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Forgot Password?"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+</LinearLayout>

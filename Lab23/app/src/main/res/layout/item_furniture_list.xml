@@ -1,0 +1,29 @@
+<!-- item_furniture.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="horizontal"
+android:layout_width="match_parent"
+android:layout_height="wrap_content">
+
+<ImageView
+    android:id="@+id/furniture_image"
+    android:layout_width="100dp"
+    android:layout_height="100dp" />
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/furniture_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Furniture Name" />
+
+    <TextView
+        android:id="@+id/furniture_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Furniture Description" />
+</LinearLayout>
+</LinearLayout>

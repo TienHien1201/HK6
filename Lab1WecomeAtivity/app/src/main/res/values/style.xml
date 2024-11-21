@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="welcome_t">
+        <!-- Màu chữ đỏ -->
+        <item name="android:textColor">#D3FF4444</item>
+        <!-- Kích thước chữ lớn -->
+        <item name="android:textSize">24sp</item>
+        <!-- Font family sans-serif -->
+        <item name="android:fontFamily">sans-serif</item>
+        <!-- Căn giữa chữ theo chiều ngang -->
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="furnitur">
+        <!-- Màu chữ đỏ -->
+        <item name="android:textColor">#FF4444</item>
+        <!-- Kích thước chữ lớn -->
+        <item name="android:textSize">24sp</item>
+        <!-- In đậm chữ -->
+        <item name="android:textStyle">bold</item>
+        <!-- Font family sans-serif -->
+        <item name="android:fontFamily">sans-serif</item>
+        <!-- Căn giữa chữ theo chiều ngang -->
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,26 @@
+1729524995400	Move compilation unit
+1729526840071	Rename compilation unit 'ThucDon.java'
+1729527454731	Move compilation unit
+1729560210204	Delete element
+1729607228035	Rename local variable 'product'
+1729608355804	Delete element
+1729734405903	Delete element
+1729775008508	Delete element
+1729776362449	Rename resource 'ItemNew.fxml'
+1729778349557	Rename resource 'itemNew.fxml'
+1729778400077	Rename resource 'ItemNew.fxml'
+1729779193817	Delete element
+1729787302718	Rename resource 'NguyenLieuItem.fxml'
+1729788796176	Rename field 'nameLableItem'
+1729788831957	Rename field 'priceLableItem'
+1729788871694	Rename field 'imgItem'
+1729863837954	Rename resource 'Item.fxml'
+1729864839230	Delete element
+1729865380284	Rename local variable 'spcl'
+1729957459043	Encapsulate field 'quanity'
+1729958347209	Rename field 'quanity'
+1730033616699	Move compilation units
+1730033647935	Move compilation units
+1730033653487	Delete element
+1730037464398	Rename resource 'Sample.fxml'
+1730038392238	Rename resource 'Sample.fxml'

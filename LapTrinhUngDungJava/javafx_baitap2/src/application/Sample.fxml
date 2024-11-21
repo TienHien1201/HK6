@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <center>
+      <VBox prefHeight="268.0" prefWidth="430.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextField id="nameField" fx:id="nameField" promptText="Student Name" />
+            <TextField id="ageField" fx:id="ageField" promptText="Student Age" />
+            <TextField id="idField" fx:id="idField" promptText="Student ID" />
+            <Button id="btnAdd" fx:id="btnAdd" mnemonicParsing="false" onAction="#addStudent" text="Thêm sinh viên" />
+            <TableView id="studentTable" fx:id="studentTable" prefHeight="200.0" prefWidth="200.0">
+              <columns>
+                <TableColumn id="nameColumn" fx:id="nameColumn" prefWidth="216.80004578828812" text="Name" />
+                <TableColumn id="ageColumn" fx:id="ageColumn" minWidth="0.0" prefWidth="124.79994201660156" text="Age" />
+                  <TableColumn id="idColumn" fx:id="idColumn" prefWidth="75.0" text="ID" />
+              </columns>
+            </TableView>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>
